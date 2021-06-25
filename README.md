@@ -1,4 +1,4 @@
-# FlutterPiano
+# Flutter Piano
 - Complete source code for the Flutter Webinar held on April 04, 2021.
 
 - All of the resources listed below are present inside [Resource Collection](https://docs.google.com/document/d/1HzYISIUM_FZMi311YjRtpgTJfv8s5W7HU2e3CQTHN3M/edit?usp=sharing)
